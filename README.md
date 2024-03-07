@@ -21,7 +21,7 @@ Sales, Report
 
 ---
 
-🍕 A semi-guided project with this YouTube video from Data Tutorials, where I imported data and extracted relevant insights about a year worth of data about all pizza orders made, 48,620 records and 12 columns.
+🍕 A semi-guided project with this [YouTube video from Data Tutorials](https://youtu.be/lrl0vz-p-yc?list=PLqC2bIrz0tqE49xY45RJyO588Tc-8s9Nn), where I imported data and extracted relevant insights about a year worth of data about all pizza orders made, 48,620 records and 12 columns.
 
 🛢️ The task was to get the exact information to answer 11 important business questions like weekly trend of orders made or the top 5 best pizzas by revenue, to do this I worked with SQL in MySQL Workbench. Imported data from a csv file to the database, dealt with data types and datetime formats and wrote a query for each business question with a way to apply a filter to them.
 
