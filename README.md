@@ -4,7 +4,7 @@ Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/pizza
 
 ## Files:
 - 'Pizza Sales SQL Queries.docx' is the report in Word of the sql queries and the result sets
-- 'pizza_sales_sql.sql' is the SQL file with all the process of importing and queries to extract data
+- 'pizza_sales_sql.sql' is the SQL file with all the process of importing and writing queries to extract data
 
 ---
 
