@@ -1,6 +1,6 @@
 # Pizza Sales Report
 
-Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/pizza-sales-report)!
+🌐 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/pizza-sales-report)!
 
 ## Files:
 - 'Pizza Sales SQL Queries.docx' is the report in Word of the sql queries and the result sets
