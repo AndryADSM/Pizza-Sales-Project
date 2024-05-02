@@ -38,4 +38,7 @@ Sales, Report
 
 [Go to Tableau](https://public.tableau.com/app/profile/andry38a/viz/PizzaSales_17081043916550/Home)
 
+![Home](https://github.com/AndryADSM/Pizza-Sales-Report/assets/150280431/0cbbdfda-7f5d-4c01-8547-5186728343f5)
+
+
 ---
