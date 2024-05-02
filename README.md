@@ -5,6 +5,7 @@
 ## Files:
 - 'Pizza Sales SQL Queries.docx' is the report in Word of the sql queries and the result sets
 - 'pizza_sales_sql.sql' is the SQL file with all the process of importing and writing queries to extract data
+- 'Pizza Sales.twbx' is the Tableau work, you may open it in your computer
 
 ---
 
