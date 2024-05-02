@@ -9,7 +9,7 @@
 ---
 
 ### 📌 Type
-YouTube Project, Dashboard
+Course Project, Dashboard
 
 ### ⚜️ Domain
 Sales, Report
