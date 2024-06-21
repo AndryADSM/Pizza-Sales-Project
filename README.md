@@ -36,9 +36,12 @@ Sales, Report
 
 📊 Built an interactive report dashboard in Tableau, featuring 5 KPI's and more than 10 charts, some are custom! Includes filters by time period and pizza category for more precise insights. There are 2 versions, one with a custom background made with PowerPoint and the other with Tableau only features.
 
+---
+
 [Go to Tableau](https://public.tableau.com/app/profile/andry38a/viz/PizzaSales_17081043916550/Home)
 
-![Home](https://github.com/AndryADSM/Pizza-Sales-Report/assets/150280431/0cbbdfda-7f5d-4c01-8547-5186728343f5)
+---
 
+![Home](https://github.com/AndryADSM/Pizza-Sales-Report/assets/150280431/0cbbdfda-7f5d-4c01-8547-5186728343f5)
 
 ---
