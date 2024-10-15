@@ -2,6 +2,8 @@
 
 🌐 Check this project on [my website](https://aadsm2355.wixsite.com/andryadsm/pizza-sales-report)!
 
+View the [Tableau Dashboard](https://public.tableau.com/app/profile/andry38a/viz/PizzaSales_17081043916550/Home).
+
 ## Files:
 - 'Pizza Sales SQL Queries.docx' is the report in Word of the sql queries and the result sets
 - 'pizza_sales_sql.sql' is the SQL file with all the process of importing and writing queries to extract data
@@ -35,10 +37,6 @@ Sales, Report
 📑 Made a report in Word with all the business questions answered with their respective SQL query and result set.
 
 📊 Built an interactive report dashboard in Tableau, featuring 5 KPI's and more than 10 charts, some are custom! Includes filters by time period and pizza category for more precise insights. There are 2 versions, one with a custom background made with PowerPoint and the other with Tableau only features.
-
----
-
-[Go to Tableau](https://public.tableau.com/app/profile/andry38a/viz/PizzaSales_17081043916550/Home)
 
 ---
 
